@@ -26,31 +26,179 @@
 		<a class="logo" href="index.html"> Hunsoo Song</a>
 		<nav class="float-right">
 			<ul>
-				<li> <a href = "mailto:hunsoo@purdue.edu"> email </a> / <a href="resources/HSONG_CV2022JUNE.pdf">CV</a> / <a href="https://scholar.google.com/citations?hl=en&user=7YYuRPAAAAAJ">google scholar</a></li>
+				<li> <a href = "mailto:hunsoo@purdue.edu"> email </a> / <a href="resources/HSONG_CV2022JUNE.pdf">CV</a> / <a href="https://scholar.google.com/citations?hl=en&user=7YYuRPAAAAAJ">google scholar</a>/ <a href="https://www.youtube.com/channel/UCgdTPwqOcqSQotKqOCw3nNw">youtube</a>/</li>
 			</ul>
 		</nav>
 	</header>
 
 	<div class="row">
 			<img class="float-left" src="resources/hunsoo_headshot_rectangle3.png" style="height:170px;">
-			<p> 
-				I develop algorithms for remotely sensed data and analyze Earth. My primary research include 3D building mapping and road network modeling for smart cities.
-				Currently, I am a PhD Student in <a href="https://gdslab.org/">Geospatial Data Science Lab</a> of Geomatics, Civil Engineering, at Purdue University.
+			<p>
+				I develop algorithms for remotely sensed data and analyze cities and Earth. My primary research include 3D urban mapping and road network modeling for smart cities.
+				Currently, I am a PhD Student in <a href="https://gdslab.org/">Geospatial Data Science Lab</a> of Geomatics, Civil Engineering at Purdue University.
 			</p>
-
-			<p> This webpage is under construction!
-			</p>
-
-
-
-			<!--
-		  <p> I completed my B.S. in Electrical Engineering from the <a href="http://www.buffalo.edu">State University of New York at Buffalo</a> in May 2016.
-			  At Buffalo, I was involved in a nanosatellite mission and several other space-related research projects, which you can read more about on my old website <a href="http://monakhova.weebly.com">here.</a>
-		  </p>-->
-
-
-
 	    </p>
   </div>
+
+ <hr>
+ <div class="row">
+		 <h3>Interests</h3>
+		 <ul>
+			 <li>Machine Learning</li>
+			 <li>Remote Sensing</li>
+			 <li>Environmental Science</li>
+			 <li>Urban Ecology</li>
+			 <li>Smart City</li>
+ </div>
+
+ <hr>
+	<h3>Research Projects</h3>
+	<div class="row">
+			<h4>Passable area mapping for universal design</h4>
+
+			<p><b>H. Song</b>, J. Carpenter, J. Jung<br>
+
+		</p>
+			<p>Current road network mapping with remotely sensed data is primarily for extracting centerlines of major roads.
+				However, people live in cities where various roads are intertwined.
+				The centerlines of major roads are utterly lacking for people driving on multiple platforms and autonomous vehicles.
+				We are working to map all the passable areas of a complex city and build a universal design to improve the accessibility.
+
+	</div>
+	<div class="row">
+			<h4>New digital terrain model (DTM) generation method</h4>
+			<p><b>H. Song</b>, J. Jung<br>
+			Paper is on the way!
+
+		</p>
+
+			<p>
+				DTM is a 3-dimensional representation of the bare earth surface excluding any objects like plants and buildings.
+				Conventional DTM generation methods consider the "local-neighborhood" of a 3D point and classify non-ground points to create DTM.
+				However, in complex urban environments, considering <b>"local context"</b> is not enough.
+				Our method explores <b>"global context"</b> to create DTM and outperforms traditional methods.
+				<img class="center" src="resources/DTM.png" style="width:450px;">
+
+	</div>
+	<div class="row">
+			<h4>Unsupervised 3D building mapping with LiDAR</h4>
+
+
+			<p><b>H. Song</b>, J. Jung <br>
+
+			<a href = "https://arxiv.org/abs/2205.14585">Paper</a>
+		</p>
+			<p> Cities are in a 3D space.<img class="float-right" src="resources/3DBLDG.PNG" style="width:200px;">
+				We need to understand and analyze cities from a 3D perspective.
+				3D building map will not only provide richer information for downstream analyses
+				but also it will enable new research that has not been performed properly, such as urban air mobility navigations,
+				digital twin simulations, and other diverse smart city applications.
+				We presents an unsupervised <b> 3D building mapping algorithm</b> using airborne LiDAR.
+				Our algorithm is even more accurate than deep-learning based <a href="https://www.microsoft.com/en-us/maps/building-footprints">Microsoft Building Footprint</a>.
+
+
+				<img class="center" src="resources/EX_DENVER.PNG" style="width:500px;">
+
+				<p> Check out the following 3D building models via the web!!
+					<br>
+					<a = href="https://www.mdpi.com/2072-4292/12/15/2357"> * 3D New York City</a>
+					<br>
+					<a = href="https://www.mdpi.com/2072-4292/12/15/2357"> * 3D Denver</a>
+					<br>
+					<a = href="https://www.mdpi.com/2072-4292/12/15/2357"> * 3D New Orleans</a>
+					<br>
+					<br>
+					3D building map will be kept updated for the entire US. Please <a href = "mailto:hunsoo@purdue.edu">email</a> me if you want to get TIFF image (Files are HUGE!)
+				 </p>
+
+	</div>
+	<div class="row">
+			<h4>Weekly supervised learning with crowdsourced data</h4>
+			<p><b>H. Song</b>, HL. Yang, J. Jung <br>
+			Paper is under review
+		</p>
+
+			<p> The crowdsourced label has a great potential for deep learning.
+				However, the low quality of labels hampers the successful learning of the deep model.
+				In this work, we propose a <b>self-filtered learning</b> that enables deep models to learn effectively with low-quality OpenStreetMap labels.
+				Our method progressively refines training samples during the training process based on the loss of training samples.
+				</p>
+
+	<img class="center" src="resources/SFL.png" style="width:550px;">
+
+	</div>
+
+	<div class="row">
+			<h4>Photovoltaic (PV) power forecast with meteorological satellite</h4>
+
+			<p><b>H. Song</b>,, G. Kim, M. Kim, Y. Kim <br>
+
+				<img class="float-right" src="resources/pv_forecast.gif" style="width:300px;">
+			<a href = "https://ieeexplore.ieee.org/abstract/document/8994616/">Paper (IEEE APPEEC)</a>
+		</p>
+			<p>
+
+				An accurate PV power forecast is important for efficient power system planning in smart cities.
+				We proposed a deep model that integrates multi-temporal meteorological satellite images and historical PV data for short-term PV forecasting.
+				Our framework is being used on the platform of <a href="https://www.sktelecom.com/index_en.html">SKT</a>, South Korea's largest wireless carrier.
+				Also, I am very proud to have worked as the project manager for this project. (Thanks SKT for providing the cool GIF!)
+				<p>
+					<a = href="https://www.mdpi.com/2072-4292/12/15/2357">Here</a> is another work with my colleagues that compares the significance of implementing different meteorological satellite images for PV forecast.
+			 </p>
+	</div>
+
+	<div class="row">
+			<h4>Patch-based Light CNN: Land cover mapping with satellite images</h4>
+			<img class="float-right" src="resources/lcnn.png" style="width:300px;">
+		<p>
+			<b>H. Song</b>, Y. Kim, Y. Kim<br>
+			<a href = "https://www.mdpi.com/2072-4292/11/2/114">Paper (Remote Sensing)</a>
+		</p>
+			<p>
+				The land cover map is quintessential data for various urban and environmental studies.
+				The U.S. Geological Survey (USGS & <a = href="https://www.mrlc.gov/">MRLC)</a> has been mapping land cover maps of the entire US for more than 20 years.
+				One difficulty is the ground-truth is considerably site-dependent and not pure as one pixel's resolution is 30m by 30m.
+				Our work presents that a very simply patch-based CNN model performs better by utilizing contextual information than conventional pixel-based algorithms.
+				<p>
+					<a = href="https://ieeexplore.ieee.org/abstract/document/8809031/">Here</a> is another piece of extended research for boosting performance based on the sample filtering.
+			 </p>
+		 </p>
+  </div>
+
+
+	<hr>
+  <div class="row">
+  		<h3>Academia</h3>
+  		<ul>
+				<h6>Purdue University</h6>
+  			<li>Ph.D. in Civil Engieering (2020-present)</li>
+				<li>Advisor: Dr. Jinha Jung</li><br>
+
+  			<h6>Seoul National University</h6>
+  			<li>M.S. Civil and Environmental Engieering (2018-2020)</li>
+  			<li>B.S. Civil and Environmental Engieering (2012-2017)</li>
+				<li>Advisor: Dr. Yongil Kim</li>
+  </div>
+
+
+	<hr>
+  <div class="row">
+  		<h3>Awards and Recognition</h3>
+			<li><b>Frederick N. Andrews Fellowship</b>, Purdue University, 2020-2024.</li>
+			<li><b>Outstanding Research Award</b>, SPINS lab, 2020.</li>
+			<li><b>Best Student Paper Award</b>, International Symposium on Remote Sensing, 2019.</li>
+			<li><b>Best Research Award (2nd place)</b>, Korea Meteorological Administration, 2019.</li>
+			<li><b>Merit-based Scholarship</b>, Seoul National University, 2018.</li>
+			<li><b>Brain Korea 21 Plus Scholarship</b>, National Research Foundation of Korea, 2018.</li>
+			<li><b>Certificate of Commendation</b>, Korean Society of Survey, Geodesy, Photogrammetry, and Cartography, 2018.</li>
+			<li><b>Best Bachelor's Thesis Award (3rd place)</b>, Seoul National University, 2017.</li>
+			<li><b>National Scholarship for Science and Engineering</b>, Korea Student Aid Foundation, 2014-2017.</li>
+			<li><b>Merit-based Scholarship</b>, Seoul National University, 2012-2013.</li>
+  </div>
+
+	<footer>
+			&copy; Hunsoo Song <a class="float-right" href="http://minimalcss.com">Minimal</a>
+	</footer>
+</div>
 </body>
 </html>
