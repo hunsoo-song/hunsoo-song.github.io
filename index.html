@@ -35,11 +35,11 @@
 	<div class="row">
 			<img class="float-left" src="resources/hunsoo_headshot_seattle.png" style="height:170px;">
 			<p>
-				I develop algorithms for remotely sensed data and analyze cities and Earth. My current research focuses on 3d urban mapping and road network modeling for smart cities.
-				Currently, I am a PhD student in <a href="https://gdslab.org/">Geospatial Data Science Lab</a> of Geomatics, Civil Engineering at Purdue University.
+				My research primarily revolves around large-scale 3D urban mapping and geospatial data analysis, utilizing deep learning and digital twin simulations.
+				I am currently a PhD candidate in the Lyles School of Civil Engineering at Purdue University, where I am working in the <a href="https://gdslab.org/">Geospatial Data Science Lab</a>
 			</p>
 			<p>
-				&larr; Me at 30th ACM SIGSPATIAL, Seattle, WA! Thanks for the photo MJ! :)
+				&larr; Me at 30th ACM SIGSPATIAL, Seattle, WA :)
 			</p>
 	    </p>
   </div>
@@ -58,24 +58,24 @@
  <hr>
 	<h3>Research Projects</h3>
 	 
+	 
 	<div class="row">
-			<h4>Scalable 3D Hydrography Mapping</h4>
+			<h4>Digital Twin Cities</h4>
 
 			<p><b>H. Song</b>, J. Jung<br>
 
 		</p>
-			<p>	Observing water is essential for environmental and hydrological studies. 
-				Although tremendous efforts have been made to develop automated water body extraction using optical imagery, a robust and scalable method that works well for a variety of landscapes has yet to be developed.
-				Instead of focusing on surface reflectance value, we developed a scalable water mapping workflow that leverages the geometric and signal properties of water from topographic airborne LiDAR data. 
-				Our workflow extracts water segments based on the LiDAR's point density and extends the extent of each segment based on the robust assumption that the local water level is flat. 
-				Plus, our algorithm can automatically extract the elevation of water segments!
+			<p>	We have been creating digital twin cities across the U.S. Cool studies are undergoing.
+				Here are some mini digital twins.
 
-	<img class="center" src="resources/WMW2-min.jpg" style="width:550px;">
+				https://earth.google.com/web/@40.76605746,-73.97348767,18.49224147a,605.90629928d,35y,66.47175618h,35.26841673t,0r
+				
+	<img class="center" src="resources/DT_small-min.jpg" style="width:550px;">
 
 	</div>
 	 
 	 
-	<div class="row">
+<!-- 	<div class="row">
 			<h4>Passable area mapping for universal design</h4>
 
 			<p><b>H. Song</b>, J. Carpenter, J. Jung<br>
@@ -86,20 +86,37 @@
 				To navigate smartly in a complex city, it is not enough to provide only the centerlines of major roads to people using autonomous vehicles and various modes of transportation.
 				We are working to map all passable areas of a complex city and build a universal design to improve accessibility.
 
-	</div>
+	</div> -->
+	 
 	<div class="row">
-			<h4>New digital terrain model (DTM) generation method</h4>
+			<h4>LiDAR for 3D Hydrography</h4>
+
+			<p><b>H. Song</b>, J. Jung<br>
+
+		</p>
+			<p>	Observing water is essential for environmental and hydrological studies. 
+				Although tremendous efforts have been made to develop automated water body extraction using optical imagery, a robust and scalable method that works well for a variety of landscapes has yet to be developed.
+				Instead of focusing on surface reflectance value, we developed a scalable water mapping workflow that leverages the geometric and signal properties of water from topographic airborne LiDAR data. 
+				Our workflow extracts water segments based on the LiDAR's point density and extends the extent of each segment based on the robust assumption that the local water level is flat. 
+				Plus, our algorithm can automatically extract the elevation of water segments!
+
+	<img class="center" src="resources/water_small-min.jpg" style="width:550px;">
+
+	</div>
+	 
+
+	<div class="row">
+			<h4>New digital terrain model (DTM)</h4>
 			<p><b>H. Song</b>, J. Jung<br>
 			Paper is on the way!
 
 		</p>
-
 			<p>
 				DTM is a 3-dimensional representation of the bare earth surface excluding any objects like plants and buildings.
 				Conventional DTM generation methods consider the "local-neighborhood" of a 3D point and classify non-ground points to create DTM.
 				However, in complex urban environments, considering <b>"local context"</b> is not enough.
 				Our method explores <b>"global context"</b> to create DTM and outperforms traditional methods.
-				<img class="center" src="resources/dtm.png" style="width:550px;">
+				<img class="center" src="resources/DTM_small-min.jpg" style="width:550px;">
 
 	</div>
 	<div class="row">
@@ -107,18 +124,15 @@
 
 
 			<p><b>H. Song</b>, J. Jung <br>
-			<a href = "https://arxiv.org/abs/2205.14585">Paper</a>
+<!-- 			<a href = "https://arxiv.org/abs/2205.14585">Paper</a> -->
+			<a href = "https://dl.acm.org/doi/abs/10.1145/3557915.3565983">Paper</a>
 		</p>
 		<img class="float-right" src="resources/purdue.png" style="width:300px;">
-			<p> Cities are in a 3D space.
-				We need to understand and analyze cities from a 3D perspective.
-				3D building map will not only provide richer information for downstream analyses
-				but also it will enable new research that has not been performed properly, such as urban air mobility navigations,
-				digital twin simulations, and other diverse smart city applications.
-				We presents an unsupervised <b> 3D building mapping algorithm</b> using airborne LiDAR.
-				Our building map is even more accurate than deep-learning based <a href="https://www.microsoft.com/en-us/maps/building-footprints">Microsoft Building Footprint</a>.
+			<p> 3D building maps are essential for digital twin cities and offer valuable information for various smart city applications. 
+				We developed an unsupervised <b>3D building mapping pipeline</b> using airborne LiDAR, which outperforms deep-learning-based methods in accuracy. 
+				This pipeline received 1st place at the ACM SIGSPATIAL GIS Cup 2022!</a>.
 	
-	<img class="center" src="resources/BMW-min.jpg" style="width:550px;">
+	<img class="center" src="resources/BLDG_small-min.jpg" style="width:550px;">
 				
 				<p> <b>Check out the following 3D building models via the web!!</b> The taller the building, the darker color it has.
 					<br>
