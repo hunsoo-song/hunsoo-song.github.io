@@ -38,7 +38,7 @@
 				I am currently a PhD candidate in the Lyles School of Civil Engineering at Purdue University, where I am working in the <a href="https://gdslab.org/">Geospatial Data Science Lab</a>.
 			</p>
 			<p>
-				&larr; Me in Knoxville, TN, while working at <a href="https://www.ornl.gov/gshsd">Oak Ridge National Lab</a>. :)
+				&larr; Me in Knoxville, TN, while working at <a href="https://www.ornl.gov/gshsd">Oak Ridge National Laboratory</a>. :)
 			</p>
 	    </p>
   </div>
@@ -72,18 +72,15 @@
 	</div>
 	 
 	 
-<!-- 	<div class="row">
-			<h4>Passable area mapping for universal design</h4>
+	<div class="row">
+			<h4>Accessible Area Mapper — Paving the Way for Inclusive Urban Mobility</h4>
 
-			<p><b>H. Song</b>, J. Carpenter, J. Jung<br>
-
+			<p><b>H. Song</b>, J. Carpenter, J. Froehlich, J. Jung<br>
+			Paper is on the way!
 		</p>
-			<p>Current road network mapping with remotely sensed data is primarily for extracting centerlines of major roads.
-				However, people live in cities where various roads are intertwined.
-				To navigate smartly in a complex city, it is not enough to provide only the centerlines of major roads to people using autonomous vehicles and various modes of transportation.
-				We are working to map all passable areas of a complex city and build a universal design to improve accessibility.
+			<p> Historically, navigation systems relied mainly on image data or GPS, overlooking details like pathway width and slope vital for diverse mobility needs. This oversight stemmed from the dominant use of deep learning road mapping, which often used biased bird's-eye-view imagery. To address this, I introduced the "<a = href="https://www.youtube.com/watch?v=nte8l4Xqptc"> Accessible Area Mapper</a>" that understands 3D environments to identify navigable routes. This system caters to multiple mobility needs, ensuring accessibility for all, including people with disabilities. We collaborate with a human-centered computing expert from the University of Washington with extensive experience in "<a = href="https://sidewalk-sea.cs.washington.edu/"> Project Sidewalk</a>".
 
-	</div> -->
+	</div>
 	 
 	<div class="row">
 			<h4>LiDAR for 3D Hydrography</h4>
@@ -91,12 +88,8 @@
 			<p><b>H. Song</b>, J. Jung<br>
 			Paper is on the way!
 		</p>
-			<p>	
-<!-- 				Observing water is essential for environmental and hydrological studies.  -->
-<!-- 				Although tremendous efforts have been made to develop automated water body extraction using optical imagery, a robust and scalable method that works well for a variety of landscapes has yet to be developed. -->
-				Unlike previous studies, our approach leverages the geometric and signal properties of water from topographic airborne LiDAR data, enabling scalable surface water mapping.
-				Our workflow extracts water segments based on the LiDAR's point density and extends the extent of each segment based on the robust assumption that the local water level is flat. 
-				Our method can automatically extract the elevation of water segments as well.
+			<p>	We developed a unique surface water mapping technique using only airborne LiDAR data. This method utilizes the principle that locally connected surface water maintains a consistent elevation due to surface tension. By integrating this physical constraint into the decision-making process, our method surpasses previous methods. As it depends solely on airborne LiDAR and operates unsupervised, it's scalable for extensive topographic mapping, making it more practical and reliable for large-scale projects.
+
 
 	<img class="center" src="resources/water_small-min.jpg" style="width:500px;">
 
@@ -104,13 +97,12 @@
 	 
 
 	<div class="row">
-			<h4>New digital terrain model (DTM)</h4>
+			<h4>A New Digital Terrain Model (DTM)</h4>
 			<p><b>H. Song</b>, J. Jung<br>
-			Paper is on the way!
-
+			<a href = "https://www.mdpi.com/2072-4292/15/16/4105">Paper (Remote Sensing)</a>
 		</p>
 			<p>
-				DTM is a 3-dimensional representation of the bare earth surface excluding any objects like plants and buildings.
+				DTM is a 3-dimensional representation of the bare earth surface excluding any objects like trees and buildings.
 				Conventional DTM generation methods consider the "local-neighborhood" of a 3D point and classify non-ground points to create DTM.
 				However, in complex urban environments, considering <b>"local context"</b> is not enough.
 				Our method explores <b>"global context"</b> to create DTM and outperforms traditional methods.
