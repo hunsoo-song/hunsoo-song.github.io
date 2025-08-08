@@ -6,3 +6,9 @@ description:
 baseurl: "" # 루트 도메인에서 서비스할 경우 공백
 url: "https://gsel.xyz" # 내 도메인 주소
 theme: jekyll-theme-minimal
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
