@@ -1,0 +1,37 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+## Refereed Journal Articles
+
+- **Hunsoo Song**, Jinha Jung (2025). [Unsupervised surface water mapping with airborne LiDAR data by leveraging physical properties of water](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2437252). *GIScience & Remote Sensing, 62(1), 2437252.*
+- Arnav Goel, **Hunsoo Song**, Jinha Jung (2025). [Integrating sparse LiDAR and multi-sensor time series imagery from spaceborne platforms for deriving localized canopy height model](https://ieeexplore.ieee.org/abstract/document/10891518). *IEEE Transactions on Geoscience and Remote Sensing*.
+- Dennis Choi et al., **Hunsoo Song**, et al. (2025). Understanding the effects of spatial scaling on the relationship between urban structure and biodiversity. *International Journal of Applied Earth Observation and Geoinformation, 138, 104441*.
+- **Hunsoo Song**, Anamika Shreevastava, Gaia Cervini, Jinha Jung (2024). [Reshaping landscape factorization through 3D landscape clustering for urban temperature studies](https://www.sciencedirect.com/science/article/pii/S2210670724006334?casa_token=FGaC1J4cqGkAAAAA:zzQPsGNr7lpkxlea2ibsO25sjjPz1Rtz66UfkwqQdKc68Rmabl1jePAP1pOvEMQ1LbWlQC4rmnMY). *Sustainable Cities and Society, 115, 105809*.
+- Hansae Kim, **Hunsoo Song**, Jinha Jung (2024). [Cadastral-to-Agricultural: A Study on the Feasibility of Using Cadastral Parcels for Agricultural Land Parcel Delineation](https://www.mdpi.com/2072-4292/16/19/3568). *Remote Sensing*.
+- **Hunsoo Song**, Jinha Jung (2023). [An unsupervised, open-source workflow for 2D and 3D building mapping from airborne LiDAR data](https://ieeexplore.ieee.org/document/10306264). *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.
+- **Hunsoo Song**, Jinha Jung (2023). [An object-based ground filtering of airborne LiDAR data for large-area DTM generation](https://doi.org/10.3390/rs15164105). *Remote Sensing, 15, 4105*.
+- **Hunsoo Song**, Lexie Yang, Jinha Jung (2022). [Self-filtered learning for semantic segmentation of buildings in remote sensing imagery with noisy labels](https://doi.org/10.1109/JSTARS.2022.3230625). *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 16, 1113–1129*.
+- Minho Kim, **Hunsoo Song**, Yongil Kim (2020). [Direct short-term forecast of photovoltaic power through a comparative study between COMS and Himawari-8 meteorological satellite images in a deep neural network](https://doi.org/10.3390/rs12152357). *Remote Sensing, 12(15), 2357*.
+- **Hunsoo Song**, Yonghyun Kim, Yongil Kim (2019). [A patch-based light convolutional neural network for land-cover mapping using Landsat-8 images](https://doi.org/10.3390/rs11020114). *Remote Sensing, 11, 114*.
+
+---
+
+## Refereed Conference Proceedings
+
+- **Hunsoo Song**, Lexie Yang (2024). Efficient extraction of building elevation attributes for flood risk management using airborne LiDAR data. *IEEE IGARSS 2024*.
+- Chenying Liu, **Hunsoo Song**, Anamika Shreevastava, Conrad Albrecht (2024). AUTOLCZ: Towards automatized local climate zone mapping from rule-based remote sensing. *IEEE IGARSS 2024*.
+- **Hunsoo Song**, Joshua Carpenter, Jon E. Froehlich, Jinha Jung (2023). Accessible Area Mapper for inclusive and sustainable urban mobility: a preliminary investigation of airborne point clouds for pathway analysis. *ACM SIGSPATIAL Workshop on Sustainable Mobility, 2023*.
+- **Hunsoo Song**, Gaia Cervini, Jinha Jung (2023). [Assessment of local climate zone products via simplified classification rule with 3D building maps](https://ieeexplore.ieee.org/document/10283361). *IEEE IGARSS 2023*.
+- **Hunsoo Song**, Jinha Jung (2022). [Challenges in building extraction from airborne LiDAR data: ground-truth, building boundaries, and evaluation metrics](https://doi.org/10.1145/3557915.3565983). *ACM SIGSPATIAL GIS 2022*.
+- **Hunsoo Song**, Gwangjoong Kim, Minho Kim, Yongil Kim (2019). [Short-term forecasting of photovoltaic power integrating multi-temporal meteorological satellite imagery in deep neural network](https://www.researchgate.net/profile/Hunsoo-Song/publication/337291996_Short-Term_Forecasting_of_Photovoltaic_Power_Integrating_Multi-Temporal_Meteorological_Satellite_Imagery_in_Deep_Neural_Network/links/5dcf4bcf4585156b3516470e/Short-Term-Forecasting-of-Photovoltaic-Power-Integrating-Multi-Temporal-Meteorological-Satellite-Imagery-in-Deep-Neural-Network.pdf). *IEEE APPEEC 2019*.
+- Gwangjoong Kim, **Hunsoo Song**, Minho Kim, Yongil Kim (2019). Multimodal merging of satellite imagery with meteorological and power plant data in deep CNN for short-term solar energy prediction. *Asian Conference on Remote Sensing 2019*.
+- **Hunsoo Song**, Anjin Chang, Junho Yeom, Jinha Jung, Yongil Kim (2019). [Domain adaptation for 2D/3D change detection in VHR imagery via calibration of convolutional neural network under prior probability shift](https://www.researchgate.net/profile/Hunsoo-Song/publication/337292091_Domain_Adaptation_Framework_for_Deep_Learning_based_Change_Detection_in_Remotely_Sensed_Data_under_Prior_Probability_Shift/links/5dcf4ee892851c382f40a893/Domain-Adaptation-Framework-for-Deep-Learning-based-Change-Detection-in-Remotely-Sensed-Data-under-Prior-Probability-Shift.pdf). *Asian Conference on Remote Sensing 2019*.
+- **Hunsoo Song**, Yongil Kim (2019). [Improving land-cover classification accuracy with a patch-based convolutional neural network: data augmentation and purposive sampling](https://ieeexplore.ieee.org/document/8809031). *IEEE JURSE 2019*.
+- **Hunsoo Song**, Yongil Kim (2019). A patch-based supervised approach for change detection in high resolution multispectral images. *International Symposium on Remote Sensing 2019*.
+
+---
+
+*(More information, grants, and invited talks to be added soon!)*

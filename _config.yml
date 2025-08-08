@@ -1,14 +1,20 @@
 title: "GSEL — Geospatial Science and Engineering Lab"
 author: Hunsoo Song
 email: hunsoo.song@gmail.com
-description: 
-  The official website of the Geospatial Science and Engineering Lab (GSEL).
-baseurl: "" # 루트 도메인에서 서비스할 경우 공백
-url: "https://gsel.xyz" # 내 도메인 주소
-theme: jekyll-theme-minimal
+description: "The official website of the Geospatial Science and Engineering Lab (GSEL)."
 
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
+baseurl: "" # 도메인을 루트로 연결했으므로 빈 값
+url: "https://gsel.xyz"
+
+theme: minima
+
+header_pages:
+  - index.md
+  - people.md
+  - research.md
+  - publications.md
+  - openings.md
+
+plugins:
+  - jekyll-feed
+
