@@ -21,9 +21,7 @@ permalink: /publications/
 
 ## Refereed Conference Proceedings
 
-## Refereed Conference Proceedings
-
-- **Hunsoo Song**, Lexie Yang (2024). [Efficient extraction of building elevation attributes for flood risk management using airborne LiDAR data](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1955). *IEEE IGARSS 2024*.
+- **Hunsoo Song**, Lexie Yang (2024). [Efficient extraction of building elevation attributes for flood risk management using airborne LiDAR data](https://ieeexplore.ieee.org/document/10641787). *IEEE IGARSS 2024*.
 - Chenying Liu, **Hunsoo Song**, Anamika Shreevastava, Conrad M. Albrecht (2024). [AutoLCZ: Towards automatized local climate zone mapping from rule-based remote sensing](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5433). *IEEE IGARSS 2024*. ([preprint](https://arxiv.org/abs/2405.13993))
 - **Hunsoo Song**, Joshua Carpenter, Jon E. Froehlich, Jinha Jung (2023). [Accessible Area Mapper for inclusive and sustainable urban mobility: a preliminary investigation of airborne point clouds for pathway analysis](https://dl.acm.org/doi/10.1145/3615899.3627929). *ACM SIGSPATIAL Workshop on Sustainable Mobility, 2023*.
 - **Hunsoo Song**, Gaia Cervini, Jinha Jung (2023). [Assessment of local climate zone products via simplified classification rule with 3D building maps](https://ieeexplore.ieee.org/document/10283361). *IEEE IGARSS 2023*.
