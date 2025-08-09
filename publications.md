@@ -21,17 +21,18 @@ permalink: /publications/
 
 ## Refereed Conference Proceedings
 
-- **Hunsoo Song**, Lexie Yang (2024). Efficient extraction of building elevation attributes for flood risk management using airborne LiDAR data. *IEEE IGARSS 2024*.
-- Chenying Liu, **Hunsoo Song**, Anamika Shreevastava, Conrad Albrecht (2024). AUTOLCZ: Towards automatized local climate zone mapping from rule-based remote sensing. *IEEE IGARSS 2024*.
-- **Hunsoo Song**, Joshua Carpenter, Jon E. Froehlich, Jinha Jung (2023). Accessible Area Mapper for inclusive and sustainable urban mobility: a preliminary investigation of airborne point clouds for pathway analysis. *ACM SIGSPATIAL Workshop on Sustainable Mobility, 2023*.
+## Refereed Conference Proceedings
+
+- **Hunsoo Song**, Lexie Yang (2024). [Efficient extraction of building elevation attributes for flood risk management using airborne LiDAR data](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=1955). *IEEE IGARSS 2024*.
+- Chenying Liu, **Hunsoo Song**, Anamika Shreevastava, Conrad M. Albrecht (2024). [AutoLCZ: Towards automatized local climate zone mapping from rule-based remote sensing](https://www.2024.ieeeigarss.org/view_paper.php?PaperNum=5433). *IEEE IGARSS 2024*. ([preprint](https://arxiv.org/abs/2405.13993))
+- **Hunsoo Song**, Joshua Carpenter, Jon E. Froehlich, Jinha Jung (2023). [Accessible Area Mapper for inclusive and sustainable urban mobility: a preliminary investigation of airborne point clouds for pathway analysis](https://dl.acm.org/doi/10.1145/3615899.3627929). *ACM SIGSPATIAL Workshop on Sustainable Mobility, 2023*.
 - **Hunsoo Song**, Gaia Cervini, Jinha Jung (2023). [Assessment of local climate zone products via simplified classification rule with 3D building maps](https://ieeexplore.ieee.org/document/10283361). *IEEE IGARSS 2023*.
 - **Hunsoo Song**, Jinha Jung (2022). [Challenges in building extraction from airborne LiDAR data: ground-truth, building boundaries, and evaluation metrics](https://doi.org/10.1145/3557915.3565983). *ACM SIGSPATIAL GIS 2022*.
-- **Hunsoo Song**, Gwangjoong Kim, Minho Kim, Yongil Kim (2019). [Short-term forecasting of photovoltaic power integrating multi-temporal meteorological satellite imagery in deep neural network](https://www.researchgate.net/profile/Hunsoo-Song/publication/337291996_Short-Term_Forecasting_of_Photovoltaic_Power_Integrating_Multi-Temporal_Meteorological_Satellite_Imagery_in_Deep_Neural_Network/links/5dcf4bcf4585156b3516470e/Short-Term-Forecasting-of-Photovoltaic-Power-Integrating-Multi-Temporal-Meteorological-Satellite-Imagery-in-Deep-Neural-Network.pdf). *IEEE APPEEC 2019*.
-- Gwangjoong Kim, **Hunsoo Song**, Minho Kim, Yongil Kim (2019). Multimodal merging of satellite imagery with meteorological and power plant data in deep CNN for short-term solar energy prediction. *Asian Conference on Remote Sensing 2019*.
-- **Hunsoo Song**, Anjin Chang, Junho Yeom, Jinha Jung, Yongil Kim (2019). [Domain adaptation for 2D/3D change detection in VHR imagery via calibration of convolutional neural network under prior probability shift](https://www.researchgate.net/profile/Hunsoo-Song/publication/337292091_Domain_Adaptation_Framework_for_Deep_Learning_based_Change_Detection_in_Remotely_Sensed_Data_under_Prior_Probability_Shift/links/5dcf4ee892851c382f40a893/Domain-Adaptation-Framework-for-Deep-Learning-based-Change-Detection-in-Remotely-Sensed-Data-under-Prior-Probability-Shift.pdf). *Asian Conference on Remote Sensing 2019*.
+- **Hunsoo Song**, Gwangjoong Kim, Minho Kim, Yongil Kim (2019). [Short-term forecasting of photovoltaic power integrating multi-temporal meteorological satellite imagery in deep neural network](https://www.proceedings.com/content/052/052649webtoc.pdf). *IEEE APPEEC 2019*.
+- Gwangjoong Kim, **Hunsoo Song**, Minho Kim, Yongil Kim (2019). [Multimodal merging of satellite imagery with meteorological and power plant data in deep CNN for short-term solar energy prediction](https://spins.snu.ac.kr/conference/multimodal-merging-of-satellite-imagery-with-meteorological-and-power-plant-data-in-deep-convolutional-neural-network-for-short-term-solar-energy-prediction/). *Asian Conference on Remote Sensing 2019*.
+- **Hunsoo Song**, Anjin Chang, Junho Yeom, Jinha Jung, Yongil Kim (2019). [Domain adaptation for 2D/3D change detection in VHR imagery via calibration of convolutional neural network under prior probability shift](https://www.proceedings.com/content/052/052891webtoc.pdf). *Asian Conference on Remote Sensing 2019*.
 - **Hunsoo Song**, Yongil Kim (2019). [Improving land-cover classification accuracy with a patch-based convolutional neural network: data augmentation and purposive sampling](https://ieeexplore.ieee.org/document/8809031). *IEEE JURSE 2019*.
-- **Hunsoo Song**, Yongil Kim (2019). A patch-based supervised approach for change detection in high resolution multispectral images. *International Symposium on Remote Sensing 2019*.
+- **Hunsoo Song**, Yongil Kim (2019). [A patch-based supervised approach for change detection in high resolution multispectral images](https://spins.snu.ac.kr/news/document/107/?pageid=2). *International Symposium on Remote Sensing 2019*.
 
 ---
 
-*(More information, grants, and invited talks to be added soon!)*
