@@ -4,8 +4,6 @@ title: 모집
 permalink: /kr/openings/
 ---
 
-<div class="lang-switch"><a href="/openings/">EN</a> · <strong>KR</strong></div>
-
 ## 환영합니다
 
 - **학부/대학원생**: 연구 참여에 관심이 있다면 간단한 소개와 함께 이력서를 보내주세요.  

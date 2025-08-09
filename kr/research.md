@@ -4,8 +4,6 @@ title: 연구
 permalink: /kr/research/
 ---
 
-<div class="lang-switch"><a href="/research/">EN</a> · <strong>KR</strong></div>
-
 # 연구 주제
 
 GSEL은 공간 데이터와 인공지능을 바탕으로 **지속 가능하고 회복력 있는 도시**를 설계·평가하기 위한 연구를 수행합니다.

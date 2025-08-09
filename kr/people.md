@@ -4,8 +4,6 @@ title: 구성원
 permalink: /kr/people/
 ---
 
-<div class="lang-switch"><a href="/people/">EN</a> · <strong>KR</strong></div>
-
 ## 연구책임자 (PI)
 
 **송헌수 (Hunsoo Song)**  
