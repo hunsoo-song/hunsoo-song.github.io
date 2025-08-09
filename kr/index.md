@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 한국어
+title: 환영합니다!
 permalink: /kr/
 ---
 

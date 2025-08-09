@@ -4,8 +4,6 @@ title: 모집
 permalink: /kr/openings/
 ---
 
-## 환영합니다
-
 - **학부/대학원생**: 연구 참여에 관심이 있다면 간단한 소개와 함께 이력서를 보내주세요.  
   연락처: <a href="mailto:hunsoo.song@cbnu.ac.kr">hunsoo.song@cbnu.ac.kr</a>
 
