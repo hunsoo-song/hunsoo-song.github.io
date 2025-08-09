@@ -87,4 +87,10 @@
 .profile-card.no-photo { grid-template-columns: 1fr; }
 .profile-card.no-photo .avatar { display: none; }
 
+.lang-switch {
+  text-align: right;
+  margin-bottom: .5rem;
+  font-size: .95rem;
+}
+.lang-switch a { text-decoration: none; }
 
