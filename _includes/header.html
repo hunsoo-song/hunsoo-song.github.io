@@ -1,0 +1,52 @@
+{% assign is_kr = false %}
+{% if page.url == '/kr/' or page.url contains '/kr/' %}
+  {% assign is_kr = true %}
+{% endif %}
+
+{% if is_kr %}
+  {% if page.url == '/kr/' %}
+    {% assign eng_url = '/' %}
+  {% else %}
+    {% assign eng_url = page.url | remove_first: '/kr' %}
+  {% endif %}
+{% else %}
+  {% if page.url == '/' %}
+    {% assign kr_url = '/kr/' %}
+  {% else %}
+    {% assign kr_url = '/kr' | append: page.url %}
+  {% endif %}
+{% endif %}
+
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{% if is_kr %}/kr/{% else %}/{% endif %}">{{ site.title }}</a>
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger" class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18" height="15" aria-hidden="true">
+          <path d="M18,1.5 L0,1.5 M18,7.5 L0,7.5 M18,13.5 L0,13.5" stroke="currentColor" stroke-width="2" fill="none"/>
+        </svg>
+      </label>
+
+      <div class="trigger">
+        {% if is_kr %}
+          <a class="page-link" href="/kr/">홈</a>
+          <a class="page-link" href="/kr/people/">구성원</a>
+          <a class="page-link" href="/kr/research/">연구</a>
+          <a class="page-link" href="/kr/publications/">연구실적</a>
+          <a class="page-link" href="/kr/openings/">모집</a>
+          <span class="lang-toggle"><a href="{{ eng_url }}">ENG</a> · <strong>KR</strong></span>
+        {% else %}
+          <a class="page-link" href="/">Home</a>
+          <a class="page-link" href="/people/">People</a>
+          <a class="page-link" href="/research/">Research</a>
+          <a class="page-link" href="/publications/">Publications</a>
+          <a class="page-link" href="/openings/">Openings</a>
+          <span class="lang-toggle"><strong>ENG</strong> · <a href="{{ kr_url }}">KR</a></span>
+        {% endif %}
+      </div>
+    </nav>
+  </div>
+</header>
+
