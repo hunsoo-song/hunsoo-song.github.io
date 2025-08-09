@@ -83,3 +83,8 @@
   }
 }
 
+/* --- no-photo 상태일 때는 1열 레이아웃 --- */
+.profile-card.no-photo { grid-template-columns: 1fr; }
+.profile-card.no-photo .avatar { display: none; }
+
+

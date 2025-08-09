@@ -6,9 +6,8 @@ permalink: /people/
 
 <div class="people-grid">
 
-  <div class="profile-card">
-    <img class="avatar" src="/assets/img/hunsoo.jpg" alt="Hunsoo Song headshot" onerror="this.style.display='none'">
-
+  <div class="profile-card no-photo">
+    <!-- 사진은 나중에 추가할 계획이라 img 태그는 일단 생략 -->
     <div class="meta">
       <h2>Dr. Hunsoo Song</h2>
       <p class="title">Principal Investigator</p>
