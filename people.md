@@ -33,7 +33,7 @@ permalink: /people/
     <div class="avatar-badge">MK</div>
     <div class="meta">
       <h2>Minuk Kim (김민욱)</h2>
-      <p class="title">Researcher</p>
+      <p class="title">Undergraduate Researcher</p>
       <p class="affil">GSEL, School of Civil Engineering, Chungbuk National University</p>
       <!-- 필요하면 이메일/링크 추가
       <p class="email"><a href="mailto:">email@example.com</a></p>
@@ -50,7 +50,7 @@ permalink: /people/
     <div class="avatar-badge">JH</div>
     <div class="meta">
       <h2>Jimin Hwang (황지민)</h2>
-      <p class="title">Researcher</p>
+      <p class="title">Undergraduate Researcher</p>
       <p class="affil">GSEL, School of Civil Engineering, Chungbuk National University</p>
       <!-- 필요하면 이메일/링크 추가 -->
     </div>
