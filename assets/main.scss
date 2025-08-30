@@ -103,3 +103,19 @@
   text-decoration: none;
 }
 
+/* Initial badge as avatar alternative */
+.profile-card .avatar-badge {
+  width: 120px;
+  height: 120px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: .5px;
+  background: #eef2ff;
+  border: 1px solid rgba(0,0,0,.08);
+  user-select: none;
+}
+

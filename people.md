@@ -6,8 +6,9 @@ permalink: /people/
 
 <div class="people-grid">
 
-  <div class="profile-card no-photo">
-    <!-- 사진은 나중에 추가할 계획이라 img 태그는 일단 생략 -->
+  <!-- 1) PI: 실제 사진 사용 -->
+  <div class="profile-card">
+    <img class="avatar" src="/assets/img/hunsoo.jpg" alt="Hunsoo Song headshot">
     <div class="meta">
       <h2>Dr. Hunsoo Song</h2>
       <p class="title">Principal Investigator</p>
@@ -18,13 +19,40 @@ permalink: /people/
       <p class="email">
         <a href="mailto:hunsoo.song@cbnu.ac.kr">hunsoo.song@cbnu.ac.kr</a>
       </p>
-
       <div class="links">
         <a href="https://scholar.google.com/citations?user=7YYuRPAAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
         <a href="https://drive.google.com/file/d/1F-hKlIvYVY5VFAPF7-aS0MR_z-mGijbT/view?usp=share_link" target="_blank" rel="noopener noreferrer">CV</a>
-        <a href="https://github.com/hunsoosong" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://github.com/hunsoo-song" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="https://www.linkedin.com/in/hunsoo-song-736291186" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </div>
+    </div>
+  </div>
+
+  <!-- 2) Researcher: 이니셜 배지 -->
+  <div class="profile-card">
+    <div class="avatar-badge">MK</div>
+    <div class="meta">
+      <h2>Minuk Kim (김민욱)</h2>
+      <p class="title">Researcher</p>
+      <p class="affil">GSEL, School of Civil Engineering, Chungbuk National University</p>
+      <!-- 필요하면 이메일/링크 추가
+      <p class="email"><a href="mailto:">email@example.com</a></p>
+      <div class="links">
+        <a href="#" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="#" target="_blank" rel="noopener">GitHub</a>
+      </div>
+      -->
+    </div>
+  </div>
+
+  <!-- 3) Researcher: 이니셜 배지 -->
+  <div class="profile-card">
+    <div class="avatar-badge">JH</div>
+    <div class="meta">
+      <h2>Jimin Hwang (황지민)</h2>
+      <p class="title">Researcher</p>
+      <p class="affil">GSEL, School of Civil Engineering, Chungbuk National University</p>
+      <!-- 필요하면 이메일/링크 추가 -->
     </div>
   </div>
 
