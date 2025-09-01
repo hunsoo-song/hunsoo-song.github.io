@@ -46,4 +46,3 @@ permalink: /people/
   </div>
 
 </div>
-
