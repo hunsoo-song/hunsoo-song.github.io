@@ -6,11 +6,11 @@ permalink: /people/
 
 <div class="people-grid">
 
-  <!-- 1) PI: 실제 사진 사용 -->
+  <!-- 1) PI: real photo -->
   <div class="profile-card">
     <img class="avatar" src="/assets/img/hunsoo.jpg" alt="Hunsoo Song headshot">
     <div class="meta">
-      <h2>Dr. Hunsoo Song (송헌수)</h2>
+      <h2>Dr. Hunsoo Song</h2>
       <p class="title">Principal Investigator</p>
       <p class="affil">
         Assistant Professor, School of Civil Engineering<br>
@@ -28,14 +28,14 @@ permalink: /people/
     </div>
   </div>
 
-  <!-- 2) Researcher: 이니셜 배지 -->
+  <!-- 2) Researcher: initial badge -->
   <div class="profile-card">
     <div class="avatar-badge">MK</div>
     <div class="meta">
       <h2>Minuk Kim (김민욱)</h2>
-      <p class="title">Undergraduate Researcher</p>
+      <p class="title">Researcher</p>
       <p class="affil">GSEL, School of Civil Engineering, Chungbuk National University</p>
-      <!-- 필요하면 이메일/링크 추가
+      <!-- Optional:
       <p class="email"><a href="mailto:">email@example.com</a></p>
       <div class="links">
         <a href="#" target="_blank" rel="noopener">Google Scholar</a>
@@ -45,14 +45,16 @@ permalink: /people/
     </div>
   </div>
 
-  <!-- 3) Researcher: 이니셜 배지 -->
+  <!-- 3) Researcher: initial badge -->
   <div class="profile-card">
     <div class="avatar-badge">JH</div>
     <div class="meta">
       <h2>Jimin Hwang (황지민)</h2>
-      <p class="title">Undergraduate Researcher</p>
+      <p class="title">Researcher</p>
       <p class="affil">GSEL, School of Civil Engineering, Chungbuk National University</p>
-      <!-- 필요하면 이메일/링크 추가 -->
+      <!-- Optional:
+      <p class="email"><a href="mailto:">email@example.com</a></p>
+      -->
     </div>
   </div>
 
