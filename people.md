@@ -41,7 +41,7 @@ permalink: /people/
     <div class="avatar-badge">KK</div>
     <div class="meta">
       <h2>Koo Kyojoon (구교준)</h2>
-      <p class="title">Undergraduate Intern</p>
+      <p class="title">Undergraduate Intern (3rd Year)</p>
       <p class="affil">School of Civil Engineering <br>
         Chungbuk National University</p>
     </div>
