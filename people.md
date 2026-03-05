@@ -31,7 +31,8 @@ permalink: /people/
     <div class="avatar-badge">JH</div>
     <div class="meta">
       <h2>Jimin Hwang (황지민)</h2>
-      <p class="title">Master's Course (2026.03-)</p>
+      <p class="title">Master's Course (2026.03-)<br>
+        Undergraduate Intern Alum (2025.09-2026.02)</p>
       <p class="affil">School of Civil Engineering <br>
         Chungbuk National University</p>
     </div>
@@ -61,17 +62,7 @@ permalink: /people/
     <div class="avatar-badge">CJ</div>
     <div class="meta">
       <h2>Choe Junhyeok (최준혁)</h2>
-      <p class="title">Undergraduate Intern (1st Year)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">JH</div>
-    <div class="meta">
-      <h2>Jimin Hwang (황지민)</h2>
-      <p class="title">Undergraduate Intern Alum (2025.09-2026.02)</p>
+      <p class="title">Undergraduate Intern (2025.12-)</p>
       <p class="affil">School of Civil Engineering <br>
         Chungbuk National University</p>
     </div>

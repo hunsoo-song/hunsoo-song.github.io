@@ -30,7 +30,8 @@ permalink: /kr/people/
     <div class="avatar-badge">JH</div>
     <div class="meta">
       <h2>황지민 (Jimin Hwang)</h2>
-      <p class="title">석사과정 (2026.03-)</p>
+      <p class="title">석사과정 (2026.03-)<br>
+        학부 연구생 Alum (2025.09-2026.02)</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -57,16 +58,7 @@ permalink: /kr/people/
     <div class="avatar-badge">CJ</div>
     <div class="meta">
       <h2>최준혁 (Choe Junhyeok)</h2>
-      <p class="title">학부 연구생 (1학년)</p>
-      <p class="affil">충북대학교 토목공학부</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">JH</div>
-    <div class="meta">
-      <h2>황지민 (Jimin Hwang)</h2>
-      <p class="title">학부 연구생 Alum (2025.09-2026.02)</p>
+      <p class="title">학부 연구생 (2025.12-)</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
