@@ -41,17 +41,7 @@ permalink: /people/
     <div class="avatar-badge">KK</div>
     <div class="meta">
       <h2>Koo Kyojoon (구교준)</h2>
-      <p class="title">Undergraduate Intern (3rd Year)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">WS</div>
-    <div class="meta">
-      <h2>Wi Sunghan (위성한)</h2>
-      <p class="title">Undergraduate Intern (3rd Year)</p>
+      <p class="title">Undergraduate Intern (2025.12-)</p>
       <p class="affil">School of Civil Engineering <br>
         Chungbuk National University</p>
     </div>
@@ -61,22 +51,12 @@ permalink: /people/
     <div class="avatar-badge">KJ</div>
     <div class="meta">
       <h2>Kim Jung Oung (김정웅)</h2>
-      <p class="title">Undergraduate Intern (3rd Year)</p>
+      <p class="title">Undergraduate Intern (2025.12-)</p>
       <p class="affil">School of Civil Engineering <br>
         Chungbuk National University</p>
     </div>
   </div>
 
-  <div class="profile-card">
-    <div class="avatar-badge">KY</div>
-    <div class="meta">
-      <h2>Kim Yeum (김예음)</h2>
-      <p class="title">Undergraduate Intern (3rd Year)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
-    </div>
-  </div>
-  
   <div class="profile-card">
     <div class="avatar-badge">CJ</div>
     <div class="meta">
@@ -88,10 +68,40 @@ permalink: /people/
   </div>
 
   <div class="profile-card">
+    <div class="avatar-badge">JH</div>
+    <div class="meta">
+      <h2>Jimin Hwang (황지민)</h2>
+      <p class="title">Undergraduate Intern Alum (2025.09-2026.02)</p>
+      <p class="affil">School of Civil Engineering <br>
+        Chungbuk National University</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="avatar-badge">WS</div>
+    <div class="meta">
+      <h2>Wi Sunghan (위성한)</h2>
+      <p class="title">Undergraduate Intern Alum (2025.11-2026.02)</p>
+      <p class="affil">School of Civil Engineering <br>
+        Chungbuk National University</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="avatar-badge">KY</div>
+    <div class="meta">
+      <h2>Kim Yeum (김예음)</h2>
+      <p class="title">Undergraduate Intern Alum (2025.11-2026.02)</p>
+      <p class="affil">School of Civil Engineering <br>
+        Chungbuk National University</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
     <div class="avatar-badge">MK</div>
     <div class="meta">
       <h2>Minuk Kim (김민욱)</h2>
-      <p class="title">Undergraduate Intern Alum (4th Year)</p>
+      <p class="title">Undergraduate Intern Alum (2025.03-2025.12)</p>
       <p class="affil">School of Civil Engineering <br>
 	Chungbuk National University</p>
     </div>
