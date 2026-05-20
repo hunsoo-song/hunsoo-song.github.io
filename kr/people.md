@@ -64,6 +64,15 @@ permalink: /kr/people/
   </div>
 
   <div class="profile-card">
+    <div class="avatar-badge">ET</div>
+    <div class="meta">
+      <h2>엄태현 (Eom TaeHyeon)</h2>
+      <p class="title">학부 연구생 (2026.03-)</p>
+      <p class="affil">충북대학교 토목공학부</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
     <div class="avatar-badge">WS</div>
     <div class="meta">
       <h2>위성한 (Wi Sunghan)</h2>

@@ -17,3 +17,20 @@ We explore the frontiers of geospatial science and engineering to address the pr
 - **Data-Driven Decision Support**: Creating actionable insights and tools to support urban planners and policymakers through spatial modeling and scenario simulation.
 
 ---
+
+## Funded Research Projects
+
+### Ongoing
+
+- **Developing a Korean Urban Embedding through Foundation Model Localization**  
+  National Research Foundation of Korea (NRF), Young Researcher Program (Type B) · Principal Investigator · Mar 2026 – Feb 2031
+
+- **Developing an Airborne LiDAR-Based Urban Walkability Assessment Model to Address Infrastructure Accessibility Inequalities**  
+  National Research Foundation of Korea (NRF), Outstanding Young Researcher Program (Seed Research) · Principal Investigator · Sep 2025 – Aug 2026
+
+### Completed
+
+- **Automated Detection of Ground Control Points Considering Positional Characteristics of Satellite Imagery**  
+  Korea Aerospace Research Institute (KARI) · Principal Investigator · May 2025 – Dec 2025
+
+---

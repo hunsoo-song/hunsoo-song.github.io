@@ -69,6 +69,16 @@ permalink: /people/
   </div>
 
   <div class="profile-card">
+    <div class="avatar-badge">ET</div>
+    <div class="meta">
+      <h2>Eom TaeHyeon (엄태현)</h2>
+      <p class="title">Undergraduate Intern (2026.03-)</p>
+      <p class="affil">School of Civil Engineering <br>
+        Chungbuk National University</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
     <div class="avatar-badge">WS</div>
     <div class="meta">
       <h2>Wi Sunghan (위성한)</h2>
