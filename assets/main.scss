@@ -119,3 +119,72 @@
   user-select: none;
 }
 
+/* --- Alumni section --- */
+.alumni-heading {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #666;
+  border-bottom: 1px solid rgba(0,0,0,.08);
+  padding-bottom: .4rem;
+}
+
+.alumni-grid {
+  grid-template-columns: repeat(2, 1fr);
+  gap: .75rem;
+}
+
+.alumni-grid .profile-card {
+  grid-template-columns: 56px 1fr;
+  gap: .75rem;
+  padding: .75rem .9rem;
+  background: #fafafa;
+  box-shadow: none;
+  border-color: rgba(0,0,0,.06);
+  opacity: .82;
+  transition: opacity .2s ease;
+}
+
+.alumni-grid .profile-card:hover {
+  opacity: 1;
+}
+
+.alumni-grid .profile-card .avatar,
+.alumni-grid .profile-card .avatar-badge {
+  width: 56px;
+  height: 56px;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+.alumni-grid .profile-card .meta h2 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.alumni-grid .profile-card .title {
+  font-size: .85rem;
+  font-weight: 500;
+  margin-bottom: .15rem;
+}
+
+.alumni-grid .profile-card .affil {
+  font-size: .8rem;
+  opacity: .7;
+}
+
+@media (max-width: 620px) {
+  .alumni-grid {
+    grid-template-columns: 1fr;
+  }
+  .alumni-grid .profile-card {
+    grid-template-columns: 56px 1fr;
+  }
+  .alumni-grid .profile-card .avatar,
+  .alumni-grid .profile-card .avatar-badge {
+    width: 56px;
+    height: 56px;
+  }
+}
+

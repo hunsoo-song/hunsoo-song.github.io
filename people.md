@@ -78,13 +78,18 @@ permalink: /people/
     </div>
   </div>
 
+</div>
+
+<h2 class="alumni-heading">Alumni</h2>
+
+<div class="people-grid alumni-grid">
+
   <div class="profile-card">
     <div class="avatar-badge">WS</div>
     <div class="meta">
       <h2>Wi Sunghan (위성한)</h2>
-      <p class="title">Undergraduate Intern Alum (2025.11-2026.02)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+      <p class="title">Undergraduate Intern (2025.11-2026.02)</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 
@@ -92,9 +97,8 @@ permalink: /people/
     <div class="avatar-badge">KY</div>
     <div class="meta">
       <h2>Kim Yeum (김예음)</h2>
-      <p class="title">Undergraduate Intern Alum (2025.11-2026.02)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+      <p class="title">Undergraduate Intern (2025.11-2026.02)</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 
@@ -102,9 +106,8 @@ permalink: /people/
     <div class="avatar-badge">MK</div>
     <div class="meta">
       <h2>Minuk Kim (김민욱)</h2>
-      <p class="title">Undergraduate Intern Alum (2025.03-2025.12)</p>
-      <p class="affil">School of Civil Engineering <br>
-	Chungbuk National University</p>
+      <p class="title">Undergraduate Intern (2025.03-2025.12)</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 

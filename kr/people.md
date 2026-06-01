@@ -72,11 +72,17 @@ permalink: /kr/people/
     </div>
   </div>
 
+</div>
+
+<h2 class="alumni-heading">졸업생 (Alumni)</h2>
+
+<div class="people-grid alumni-grid">
+
   <div class="profile-card">
     <div class="avatar-badge">WS</div>
     <div class="meta">
       <h2>위성한 (Wi Sunghan)</h2>
-      <p class="title">학부 연구생 Alum (2025.11-2026.02)</p>
+      <p class="title">학부 연구생 (2025.11-2026.02)</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -85,7 +91,7 @@ permalink: /kr/people/
     <div class="avatar-badge">KY</div>
     <div class="meta">
       <h2>김예음 (Kim Yeum)</h2>
-      <p class="title">학부 연구생 Alum (2025.11-2026.02)</p>
+      <p class="title">학부 연구생 (2025.11-2026.02)</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -94,7 +100,7 @@ permalink: /kr/people/
     <div class="avatar-badge">MK</div>
     <div class="meta">
       <h2>김민욱 (Minuk Kim)</h2>
-      <p class="title">학부 연구생 Alum (2025.03-2025.12)</p>
+      <p class="title">학부 연구생 (2025.03-2025.12)</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
