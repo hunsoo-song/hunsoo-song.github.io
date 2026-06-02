@@ -119,6 +119,64 @@
   user-select: none;
 }
 
+/* --- Section role headings (Master's, Undergrad, Alumni) --- */
+.role-heading {
+  margin-top: 2rem;
+  margin-bottom: .9rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #555;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+}
+
+/* --- Mid-size student grid (current Master's / Undergrad cards) --- */
+.students-grid {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.students-grid .profile-card {
+  grid-template-columns: 80px 1fr;
+  gap: .85rem;
+  padding: .9rem 1rem;
+  box-shadow: 0 1px 6px rgba(0,0,0,.03);
+}
+
+.students-grid .profile-card .avatar,
+.students-grid .profile-card .avatar-badge {
+  width: 80px;
+  height: 80px;
+  border-radius: 12px;
+  font-size: 1.3rem;
+}
+
+.students-grid .profile-card .meta h2 {
+  font-size: 1.1rem;
+}
+
+.students-grid .profile-card .title {
+  font-size: .9rem;
+  margin-bottom: .25rem;
+}
+
+.students-grid .profile-card .affil {
+  font-size: .85rem;
+  opacity: .75;
+}
+
+.students-grid .profile-card .subnote {
+  font-weight: 400;
+  font-size: .82rem;
+  opacity: .65;
+}
+
+@media (max-width: 620px) {
+  .students-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* --- Alumni section --- */
 .alumni-heading {
   margin-top: 2.5rem;

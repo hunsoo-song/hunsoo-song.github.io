@@ -26,21 +26,33 @@ permalink: /kr/people/
     </div>
   </div>
 
+</div>
+
+<h3 class="role-heading">석사과정</h3>
+
+<div class="people-grid students-grid">
+
   <div class="profile-card">
     <div class="avatar-badge">JH</div>
     <div class="meta">
       <h2>황지민 (Jimin Hwang)</h2>
       <p class="title">석사과정 (2026.03-)<br>
-        학부 연구생 Alum (2025.09-2026.02)</p>
+        <span class="subnote">학부 연구생 (2025.09-2026.02)</span></p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
+
+</div>
+
+<h3 class="role-heading">학부 연구생</h3>
+
+<div class="people-grid students-grid">
 
   <div class="profile-card">
     <div class="avatar-badge">KK</div>
     <div class="meta">
       <h2>구교준 (Koo Kyojoon)</h2>
-      <p class="title">학부 연구생 (2025.12-)</p>
+      <p class="title">2025.12-</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -49,7 +61,7 @@ permalink: /kr/people/
     <div class="avatar-badge">KJ</div>
     <div class="meta">
       <h2>김정웅 (Kim Jung Oung)</h2>
-      <p class="title">학부 연구생 (2025.12-)</p>
+      <p class="title">2025.12-</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -58,7 +70,7 @@ permalink: /kr/people/
     <div class="avatar-badge">CJ</div>
     <div class="meta">
       <h2>최준혁 (Choe Junhyeok)</h2>
-      <p class="title">학부 연구생 (2025.12-)</p>
+      <p class="title">2025.12-</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -67,7 +79,7 @@ permalink: /kr/people/
     <div class="avatar-badge">ET</div>
     <div class="meta">
       <h2>엄태현 (Eom TaeHyeon)</h2>
-      <p class="title">학부 연구생 (2026.03-)</p>
+      <p class="title">2026.03-</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>

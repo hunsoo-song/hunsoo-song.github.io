@@ -27,24 +27,34 @@ permalink: /people/
     </div>
   </div>
 
+</div>
+
+<h3 class="role-heading">Master's Course</h3>
+
+<div class="people-grid students-grid">
+
   <div class="profile-card">
     <div class="avatar-badge">JH</div>
     <div class="meta">
       <h2>Jimin Hwang (황지민)</h2>
       <p class="title">Master's Course (2026.03-)<br>
-        Undergraduate Intern Alum (2025.09-2026.02)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+        <span class="subnote">Undergraduate Intern (2025.09-2026.02)</span></p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
+
+</div>
+
+<h3 class="role-heading">Undergraduate Interns</h3>
+
+<div class="people-grid students-grid">
 
   <div class="profile-card">
     <div class="avatar-badge">KK</div>
     <div class="meta">
       <h2>Koo Kyojoon (구교준)</h2>
-      <p class="title">Undergraduate Intern (2025.12-)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+      <p class="title">2025.12-</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 
@@ -52,9 +62,8 @@ permalink: /people/
     <div class="avatar-badge">KJ</div>
     <div class="meta">
       <h2>Kim Jung Oung (김정웅)</h2>
-      <p class="title">Undergraduate Intern (2025.12-)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+      <p class="title">2025.12-</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 
@@ -62,9 +71,8 @@ permalink: /people/
     <div class="avatar-badge">CJ</div>
     <div class="meta">
       <h2>Choe Junhyeok (최준혁)</h2>
-      <p class="title">Undergraduate Intern (2025.12-)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+      <p class="title">2025.12-</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 
@@ -72,9 +80,8 @@ permalink: /people/
     <div class="avatar-badge">ET</div>
     <div class="meta">
       <h2>Eom TaeHyeon (엄태현)</h2>
-      <p class="title">Undergraduate Intern (2026.03-)</p>
-      <p class="affil">School of Civil Engineering <br>
-        Chungbuk National University</p>
+      <p class="title">2026.03-</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
 
