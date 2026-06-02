@@ -47,7 +47,7 @@ permalink: /people/
 
 <h3 class="role-heading">Undergraduate Interns</h3>
 
-<div class="people-grid students-grid">
+<div class="people-grid compact-grid">
 
   <div class="profile-card">
     <div class="avatar-badge">KK</div>
@@ -89,7 +89,7 @@ permalink: /people/
 
 <h2 class="alumni-heading">Alumni</h2>
 
-<div class="people-grid alumni-grid">
+<div class="people-grid compact-grid alumni-grid">
 
   <div class="profile-card">
     <div class="avatar-badge">WS</div>
