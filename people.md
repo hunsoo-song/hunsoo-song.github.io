@@ -77,10 +77,28 @@ permalink: /people/
   </div>
 
   <div class="profile-card">
-    <div class="avatar-badge">ET</div>
+    <div class="avatar-badge">GY</div>
     <div class="meta">
-      <h2>Eom TaeHyeon (엄태현)</h2>
-      <p class="title">2026.03-</p>
+      <h2>Gwon Yun Geon (권윤건)</h2>
+      <p class="title">2026.06-</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="avatar-badge">KJ</div>
+    <div class="meta">
+      <h2>Kwon Joo Hyeon (권주현)</h2>
+      <p class="title">2026.06-</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="avatar-badge">PS</div>
+    <div class="meta">
+      <h2>Park Seung Wan (박승완)</h2>
+      <p class="title">2026.06-</p>
       <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>
@@ -90,6 +108,15 @@ permalink: /people/
 <h2 class="alumni-heading">Alumni</h2>
 
 <div class="people-grid compact-grid alumni-grid">
+
+  <div class="profile-card">
+    <div class="avatar-badge">ET</div>
+    <div class="meta">
+      <h2>Eom TaeHyeon (엄태현)</h2>
+      <p class="title">Undergraduate Intern (2026.03-2026.06)</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
+    </div>
+  </div>
 
   <div class="profile-card">
     <div class="avatar-badge">WS</div>

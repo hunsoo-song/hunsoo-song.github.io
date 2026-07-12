@@ -76,10 +76,28 @@ permalink: /kr/people/
   </div>
 
   <div class="profile-card">
-    <div class="avatar-badge">ET</div>
+    <div class="avatar-badge">GY</div>
     <div class="meta">
-      <h2>엄태현 (Eom TaeHyeon)</h2>
-      <p class="title">2026.03-</p>
+      <h2>권윤건 (Gwon Yun Geon)</h2>
+      <p class="title">2026.06-</p>
+      <p class="affil">충북대학교 토목공학부</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="avatar-badge">KJ</div>
+    <div class="meta">
+      <h2>권주현 (Kwon Joo Hyeon)</h2>
+      <p class="title">2026.06-</p>
+      <p class="affil">충북대학교 토목공학부</p>
+    </div>
+  </div>
+
+  <div class="profile-card">
+    <div class="avatar-badge">PS</div>
+    <div class="meta">
+      <h2>박승완 (Park Seung Wan)</h2>
+      <p class="title">2026.06-</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
   </div>
@@ -89,6 +107,15 @@ permalink: /kr/people/
 <h2 class="alumni-heading">졸업생 (Alumni)</h2>
 
 <div class="people-grid compact-grid alumni-grid">
+
+  <div class="profile-card">
+    <div class="avatar-badge">ET</div>
+    <div class="meta">
+      <h2>엄태현 (Eom TaeHyeon)</h2>
+      <p class="title">학부 연구생 (2026.03-2026.06)</p>
+      <p class="affil">충북대학교 토목공학부</p>
+    </div>
+  </div>
 
   <div class="profile-card">
     <div class="avatar-badge">WS</div>
