@@ -22,9 +22,8 @@ We explore the frontiers of geospatial science and engineering to address the pr
 
 ### Ongoing
 
-- **Citizen-Centric Social-Safety Smart City Education & Research Group**  
-  Brain Korea 21 (BK21) Phase 4, Regional University Consortium Pilot Program (Ministry of Education / National Research Foundation of Korea) · Co-PI · Sep 2026 – Aug 2027  
-  <span class="subnote">A four-university consortium led by Chungbuk National University (School of Civil Engineering), with Hanbat National University, Daejeon University, and Cheongju University.</span>
+- **Citizen-Centric Social-Safety Smart City (Education & Research Group)**  
+  Brain Korea 21 (BK21) Phase 4, Regional University Consortium Pilot Program (Ministry of Education / National Research Foundation of Korea) · Participating Faculty · Sep 2026 – Aug 2027
 
 - **Developing a Korean Urban Embedding through Foundation Model Localization**  
   National Research Foundation of Korea (NRF), Young Researcher Program (Type B) · Principal Investigator · Mar 2026 – Feb 2031
