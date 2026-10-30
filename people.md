@@ -20,7 +20,7 @@ permalink: /people/
       </p>
       <div class="links">
         <a href="https://scholar.google.com/citations?user=7YYuRPAAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
-        <a href="https://drive.google.com/file/d/1F-hKlIvYVY5VFAPF7-aS0MR_z-mGijbT/view?usp=share_link" target="_blank" rel="noopener noreferrer">CV</a>
+        <a href="/assets/cv/Hunsoo_Song_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
         <a href="https://github.com/hunsoosong" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="https://www.linkedin.com/in/hunsoo-song-736291186" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </div>
@@ -90,57 +90,6 @@ permalink: /people/
     <div class="meta">
       <h2>Kwon Joo Hyeon (권주현)</h2>
       <p class="title">2026.06-</p>
-      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
-    </div>
-  </div>
-
-</div>
-
-<h2 class="alumni-heading">Alumni</h2>
-
-<div class="people-grid compact-grid alumni-grid">
-
-  <div class="profile-card">
-    <div class="avatar-badge">PS</div>
-    <div class="meta">
-      <h2>Park Seung Wan (박승완)</h2>
-      <p class="title">Undergraduate Intern (2026.06-2026.08)</p>
-      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">ET</div>
-    <div class="meta">
-      <h2>Eom TaeHyeon (엄태현)</h2>
-      <p class="title">Undergraduate Intern (2026.03-2026.06)</p>
-      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">WS</div>
-    <div class="meta">
-      <h2>Wi Sunghan (위성한)</h2>
-      <p class="title">Undergraduate Intern (2025.11-2026.02)</p>
-      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">KY</div>
-    <div class="meta">
-      <h2>Kim Yeum (김예음)</h2>
-      <p class="title">Undergraduate Intern (2025.11-2026.02)</p>
-      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
-    </div>
-  </div>
-
-  <div class="profile-card">
-    <div class="avatar-badge">MK</div>
-    <div class="meta">
-      <h2>Minuk Kim (김민욱)</h2>
-      <p class="title">Undergraduate Intern (2025.03-2025.12)</p>
       <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
   </div>

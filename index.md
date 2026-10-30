@@ -14,7 +14,7 @@ GSEL(pronounced *"Gee-sel"*) is a research group dedicated to advancing geospati
 
 ## News
 
-- **Oct 27, 2026** — We hosted Prof. Anjin Jang (Michigan State University) for a BK21 invited seminar, *"From Drones to Satellites: Remote Sensing and AI for Environmental Monitoring."*
+- **Oct 27, 2026** — We hosted Prof. Anjin Chang (Michigan State University) for a BK21 invited seminar, *"From Drones to Satellites: Remote Sensing and AI for Environmental Monitoring."*
 
 - **Oct 26, 2026** — We hosted Prof. Euntak Lee (Korea University) for a BK21 invited seminar, *"Assessing the Resilience of Urban Metro Stations Under Large-Scale Sporting Events Using Smart Card Data: A Case Study in Seoul."*
 
