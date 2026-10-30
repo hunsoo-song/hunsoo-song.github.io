@@ -6,15 +6,13 @@ permalink: /research/
 
 ## Research Themes
 
-We explore the frontiers of geospatial science and engineering to address the pressing challenges in urban sustainability and climate resilience. Our current research themes include:
+We develop trustworthy and scalable geospatial intelligence to understand and improve cities and the environment. Our current research themes include:
 
-- **GeoAI for Urban Mapping**: Developing deep learning and machine learning algorithms for remote sensing and photogrammetry tasks, such as semantic segmentation, change detection, and digital twin modeling.
+- **Geospatial AI & Foundation Models**: Studying how geospatial foundation models and Earth embeddings represent places and environments, and how reliably these representations transfer across cities and regions — including geographic transferability, label geography, and large-scale mapping.
 
-- **Urban Climate and Green Infrastructure**: Investigating the spatial patterns of heat, albedo, and vegetation in cities using high-resolution spatial data (e.g., LiDAR, multispectral imagery) to inform heat resilience strategies.
+- **3D Earth & Environmental Mapping**: Developing scalable methods for mapping terrain, vegetation, buildings, and urban form from airborne LiDAR, photogrammetry, satellite imagery, and emerging Earth representations.
 
-- **Walkability and Soft Accessibility**: Quantifying pedestrian route quality and accessibility using 3D geospatial data, including LiDAR and street view imagery, to promote equitable infrastructure planning.
-
-- **Data-Driven Decision Support**: Creating actionable insights and tools to support urban planners and policymakers through spatial modeling and scenario simulation.
+- **Urban Environment & Climate**: Investigating how urban form, vegetation, and infrastructure shape heat exposure, walkability, and environmental equity, to support actionable, data-driven urban planning.
 
 ---
 
@@ -28,10 +26,10 @@ We explore the frontiers of geospatial science and engineering to address the pr
 - **Developing a Korean Urban Embedding through Foundation Model Localization**  
   National Research Foundation of Korea (NRF), Young Researcher Program (Type B) · Principal Investigator · Mar 2026 – Feb 2031
 
+### Completed
+
 - **Developing an Airborne LiDAR-Based Urban Walkability Assessment Model to Address Infrastructure Accessibility Inequalities**  
   National Research Foundation of Korea (NRF), Outstanding Young Researcher Program (Seed Research) · Principal Investigator · Sep 2025 – Aug 2026
-
-### Completed
 
 - **Automated Detection of Ground Control Points Considering Positional Characteristics of Satellite Imagery**  
   Korea Aerospace Research Institute (KARI) · Principal Investigator · May 2025 – Dec 2025

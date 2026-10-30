@@ -61,7 +61,7 @@ permalink: /people/
   <div class="profile-card">
     <div class="avatar-badge">KJ</div>
     <div class="meta">
-      <h2>Kim Jung Oung (김정웅)</h2>
+      <h2>Kim Jungoung (김정웅)</h2>
       <p class="title">2025.12-</p>
       <p class="affil">School of Civil Engineering, Chungbuk National University</p>
     </div>
@@ -94,20 +94,20 @@ permalink: /people/
     </div>
   </div>
 
-  <div class="profile-card">
-    <div class="avatar-badge">PS</div>
-    <div class="meta">
-      <h2>Park Seung Wan (박승완)</h2>
-      <p class="title">2026.06-</p>
-      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
-    </div>
-  </div>
-
 </div>
 
 <h2 class="alumni-heading">Alumni</h2>
 
 <div class="people-grid compact-grid alumni-grid">
+
+  <div class="profile-card">
+    <div class="avatar-badge">PS</div>
+    <div class="meta">
+      <h2>Park Seung Wan (박승완)</h2>
+      <p class="title">Undergraduate Intern (2026.06-2026.08)</p>
+      <p class="affil">School of Civil Engineering, Chungbuk National University</p>
+    </div>
+  </div>
 
   <div class="profile-card">
     <div class="avatar-badge">ET</div>

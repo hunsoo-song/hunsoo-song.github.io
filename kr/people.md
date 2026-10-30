@@ -60,7 +60,7 @@ permalink: /kr/people/
   <div class="profile-card">
     <div class="avatar-badge">KJ</div>
     <div class="meta">
-      <h2>김정웅 (Kim Jung Oung)</h2>
+      <h2>김정웅 (Kim Jungoung)</h2>
       <p class="title">2025.12-</p>
       <p class="affil">충북대학교 토목공학부</p>
     </div>
@@ -93,20 +93,20 @@ permalink: /kr/people/
     </div>
   </div>
 
-  <div class="profile-card">
-    <div class="avatar-badge">PS</div>
-    <div class="meta">
-      <h2>박승완 (Park Seung Wan)</h2>
-      <p class="title">2026.06-</p>
-      <p class="affil">충북대학교 토목공학부</p>
-    </div>
-  </div>
-
 </div>
 
 <h2 class="alumni-heading">졸업생 (Alumni)</h2>
 
 <div class="people-grid compact-grid alumni-grid">
+
+  <div class="profile-card">
+    <div class="avatar-badge">PS</div>
+    <div class="meta">
+      <h2>박승완 (Park Seung Wan)</h2>
+      <p class="title">학부 연구생 (2026.06-2026.08)</p>
+      <p class="affil">충북대학교 토목공학부</p>
+    </div>
+  </div>
 
   <div class="profile-card">
     <div class="avatar-badge">ET</div>

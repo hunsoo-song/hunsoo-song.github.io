@@ -6,6 +6,10 @@ permalink: /kr/publications/
 
 ## 주요 저널 논문
 
+<small>\* 교신저자</small>
+
+- Yeonjae Kim, **Hunsoo Song**\*, Songlin Fei, Jinha Jung (2026). [Transforming leaf-off LiDAR to leaf-on canopy height models using deep learning](https://doi.org/10.1080/15481603.2026.2740327). *GIScience & Remote Sensing, 63(1)*.
+- Jungoung Kim, **Hunsoo Song**\* (2026). [How reliable are geospatial foundation model embeddings for cross-city urban mapping?](https://doi.org/10.1109/LGRS.2026.3732001) *IEEE Geoscience and Remote Sensing Letters, 23, 5003105*.
 - **Hunsoo Song**, Jinha Jung (2025). [Unsupervised surface water mapping with airborne LiDAR data by leveraging physical properties of water](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2437252). *GIScience & Remote Sensing, 62(1), 2437252.*
 - Arnav Goel, **Hunsoo Song**, Jinha Jung (2025). [Integrating sparse LiDAR and multi-sensor time series imagery from spaceborne platforms for deriving localized canopy height model](https://ieeexplore.ieee.org/abstract/document/10891518). *IEEE Transactions on Geoscience and Remote Sensing*.
 - Dennis Choi et al., **Hunsoo Song**, et al. (2025). Understanding the effects of spatial scaling on the relationship between urban structure and biodiversity. *International Journal of Applied Earth Observation and Geoinformation, 138, 104441*.
